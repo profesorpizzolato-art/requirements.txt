@@ -16,7 +16,11 @@ def main():
 
     ventana = CabinaPerforador()
     ventana.show()
-
+interfaz_cabina.py
+motor_fisico.py
+re
+requisitos.txt
+simulador.py
     sys.exit(app.exec())
 
 if __name__ == "__main__":
